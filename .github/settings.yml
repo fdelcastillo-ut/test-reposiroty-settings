@@ -42,7 +42,7 @@ repository:
   
   has_projects: false
   
-  merge_types_delete_branch: true
+  delete_branch_on_merge: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
