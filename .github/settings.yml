@@ -41,6 +41,8 @@ repository:
   topics: company-settings, non-production-code, internal
   
   has_projects: false
+  
+  merge_types_delete_branch: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
