@@ -2,7 +2,7 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: repo-name
+  name: test-reposiroty-settings
 
   # A short description of the repository that will show up on GitHub
   description: description of repo
@@ -11,7 +11,7 @@ repository:
   #homepage: https://example.github.io/
 
   # Either `true` to make the repository private, or `false` to make it public.
-  private: true
+  private: false
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: false
@@ -36,6 +36,9 @@ repository:
   # Either `true` to allow rebase-merging pull requests, or `false` to prevent
   # rebase-merging.
   allow_rebase_merge: true
+
+  # topics
+  topics: company-settings, non-production-code, internal
 
 # Labels: define labels for Issues and Pull Requests
 labels:
