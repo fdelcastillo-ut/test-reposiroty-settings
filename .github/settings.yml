@@ -39,6 +39,8 @@ repository:
 
   # topics
   topics: company-settings, non-production-code, internal
+  
+  has_projects: false
 
 # Labels: define labels for Issues and Pull Requests
 labels:
